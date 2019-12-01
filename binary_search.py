@@ -1,6 +1,6 @@
 ##########################################################################################################
 #                                                                                                        #
-#            Recursive Python implementation of a binary search algorithm on a sorted array              #
+#          Recursive implementation of a binary search algorithm on a sorted array in Python             #
 #                                                                                                        #
 #                   Algorithm steps:                                                                     #
 #             1. Compare x to the middle element m of a sorted array N                                   #
